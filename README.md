@@ -30,4 +30,4 @@ Este projeto foi feito com Python 3. Recomendado usar Python 3.8+.
 1. Clone ou baixe este repositório:
 
   
-   git clone 
+   git clone https://github.com/Ewep12/PasswordManager.py.git
